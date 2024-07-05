@@ -1,0 +1,7 @@
+.flex {
+    display: flex;
+    column-gap: 100px;
+    margin-top: 36px;
+}
+.featured-post {
+}

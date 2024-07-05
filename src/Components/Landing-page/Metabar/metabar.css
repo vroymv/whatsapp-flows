@@ -1,0 +1,9 @@
+.meta-container {
+    height: 60px;
+    width: 100%;
+}
+
+.logo {
+    overflow: hidden;
+    height: 100%;
+}

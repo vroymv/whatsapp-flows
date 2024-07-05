@@ -1,0 +1,23 @@
+  .container {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  .nav-container{
+    width: 100%;
+  }
+  .navbar a {
+    color : #ffffff;
+  }
+  
+  .nav-link {
+    margin: 0 2rem;
+  }
+  .navbar-brand {
+    width: fit-content;
+  }
+
+  .navbar-brand .logo {
+    width: 8%;
+    height: 100%;
+  }
